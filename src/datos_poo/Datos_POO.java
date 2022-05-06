@@ -18,6 +18,8 @@ public class Datos_POO {
         System.out.println("Luis Manuel Sanchez Gonzalez");
         System.out.println("Ingenieria en SIstemas Computacionales");
         System.out.println("Programacion Orientada a Objetos");
+        System.out.println("21550324");
+        System.out.println("La Cruz");
         // TODO code application logic here
     }
     
